@@ -1,2 +1,2 @@
 # 2021-IT-SHOW-BlueWhite
-개발자 - 심이진 조해정 황소은 2021 ITshow-CPU KINGDOM
+Developer - 심이진 조해정 황소은 2021 ITshow-CPU KINGDOM
